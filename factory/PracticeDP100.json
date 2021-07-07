@@ -1,0 +1,9 @@
+{
+	"name": "PracticeDP100",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2309b987-781f-449a-94f0-5538a296a570",
+		"tenantId": "bbef8e44-24bb-468d-b005-7e1b0781dc11"
+	}
+}
