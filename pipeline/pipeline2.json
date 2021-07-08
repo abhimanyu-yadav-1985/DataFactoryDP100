@@ -29,7 +29,9 @@
 						}
 					},
 					"sink": {
-						"type": "AzureSqlSink"
+						"type": "AzureSqlSink",
+						"preCopyScript": "TRUNCATE TABLE [dbo].[CopyDemo];",
+						"disableMetricsCollection": false
 					},
 					"enableStaging": false,
 					"translator": {
