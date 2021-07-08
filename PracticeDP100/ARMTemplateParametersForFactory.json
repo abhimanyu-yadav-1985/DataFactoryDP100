@@ -5,22 +5,34 @@
 		"factoryName": {
 			"value": "PracticeDP100"
 		},
+		"FileServer1_password": {
+			"value": ""
+		},
 		"SqlServer1_connectionString": {
 			"value": ""
 		},
 		"SqlServer1_password": {
 			"value": ""
 		},
-		"FileServer1_password": {
+		"FileServer2_password": {
 			"value": ""
 		},
-		"SqlServer1_properties_typeProperties_userName": {
-			"value": "AE-ABHYAD\\abhyad"
+		"SqlServer2_connectionString": {
+			"value": ""
 		},
 		"FileServer1_properties_typeProperties_host": {
 			"value": "D:\\"
 		},
 		"FileServer1_properties_typeProperties_userId": {
+			"value": "AE-ABHYAD\\abhyad"
+		},
+		"SqlServer1_properties_typeProperties_userName": {
+			"value": "AE-ABHYAD\\abhyad"
+		},
+		"FileServer2_properties_typeProperties_host": {
+			"value": "D:\\assignment001"
+		},
+		"FileServer2_properties_typeProperties_userId": {
 			"value": "AE-ABHYAD\\abhyad"
 		}
 	}
