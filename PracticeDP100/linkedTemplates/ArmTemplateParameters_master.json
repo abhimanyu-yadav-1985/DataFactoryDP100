@@ -20,6 +20,9 @@
 		"SqlServer2_connectionString": {
 			"value": ""
 		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
 		"FileServer1_properties_typeProperties_host": {
 			"value": "D:\\"
 		},
